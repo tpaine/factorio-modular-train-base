@@ -1,6 +1,8 @@
 Latest Version: 2<br>
 Creator: Thomas<br>
-GitHub: <a href="https://github.com/tpaine/factorio-modular-train-base">Factorio Modular Train Base</a><br><br>
+GitHub: <a href="https://github.com/tpaine/factorio-modular-train-base">Factorio Modular Train Base</a><br>
+Save File: <a href="https://drive.google.com/file/d/1-XwcL-X-ORCbey7n6AinENSQeze2Z6ib/view?usp=sharing">Modular Base Blueprint Builder</a><br>
+<br>
 A Space Age 2.0 compatible version of Erinch's amazing Train Block prints:
 https://factorioprints.com/view/-Nnw3ZYyhVsJmbl7Ug6w
 
